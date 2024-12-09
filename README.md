@@ -20,13 +20,6 @@ I’ve worked on several impactful projects that highlight my technical, analyti
 |-------------------|-------------------|
 | [Verizon-BTTAI-ElectricityPriceForecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) | **Energy Price Forecasting - Verizon**: This project tackles the challenge of predicting electricity prices across U.S. states and sectors to optimize Verizon’s energy management strategies. With over $1 billion spent annually on electricity, Verizon seeks a robust forecasting solution to enhance budgeting, improve decision-making, and reduce operational costs. |
 
----
-
-## 📞 **Contact Me**
-- 📧 **Email**: [kelllycchan@gmail.com](mailto:kelllycchan@gmail.com)  
-- 🔗 **LinkedIn**: [Connect with me](www.linkedin.com/in/kelllycchan/)  
-
-
 
 
 <!--
