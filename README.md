@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Kelly!
-
-![Professional Headshot](./images/your-headshot.jpg) <!-- Replace with link to your actual image file -->
+# 👋 Hi, I'm Kelly (they/them)!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kelllycchan/) 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:kelllycchan@gmail.com) 
@@ -13,7 +11,6 @@ I'm a 2/4 Computer Science student with a Pure and Applied Mathematics minor at 
 Key Areas of Interest:
 - 📈 **Machine Learning & AI**: Developing predictive models for financial analysis and forecasting.
 - 📊 **Data Analytics & Visualization**: Extracting insights from alternative data to drive business development.
-- 
 ---
 
 ## 📚 **My Projects**
@@ -21,15 +18,15 @@ I’ve worked on several impactful projects that highlight my technical, analyti
 
 | 📂 **Repository**  | 📖 **Description** |
 |-------------------|-------------------|
-| 🔥 [Verizon-BTTAI-ElectricityPriceForecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) | **Energy Price Forecasting - Verizon**: This project tackles the challenge of predicting electricity prices across U.S. states and sectors to optimize Verizon’s energy management strategies. With over $1 billion spent annually on electricity, Verizon seeks a robust forecasting solution to enhance budgeting, improve decision-making, and reduce operational costs. |
+| [Verizon-BTTAI-ElectricityPriceForecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting) | **Energy Price Forecasting - Verizon**: This project tackles the challenge of predicting electricity prices across U.S. states and sectors to optimize Verizon’s energy management strategies. With over $1 billion spent annually on electricity, Verizon seeks a robust forecasting solution to enhance budgeting, improve decision-making, and reduce operational costs. |
 
 ---
 
 ## 📞 **Contact Me**
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-linkedin-url/)  
+- 📧 **Email**: [kelllycchan@gmail.com](mailto:kelllycchan@gmail.com)  
+- 🔗 **LinkedIn**: [Connect with me](www.linkedin.com/in/kelllycchan/)  
 
-I’m always open to **collaboration opportunities** and interested in expanding my network. Let’s connect! 
+
 
 
 <!--
