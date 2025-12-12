@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 **About Me** 
-I'm a 2/4 Computer Science student with a Pure and Applied Mathematics minor at the Stevens Institute of Technology. I'm passionate about **Data Science, Machine Learning, and AI** and thrive on using technical skills to solve challenging business problems and leverage data-driven insights to support impactful decision-making. My work blends **Enterprise Engineering** and **Business Analytics**, allowing me to develop and support innovative projects with precision. 
+I'm a 3/4 Computer Science student with a Pure and Applied Mathematics minor at the Stevens Institute of Technology. I'm passionate about **Data Science, Machine Learning, and AI** and thrive on using technical skills to solve challenging business problems and leverage data-driven insights to support impactful decision-making. My work blends **Enterprise Engineering** and **Business Analytics**, allowing me to develop and support innovative projects with precision. 
 
 Key Areas of Interest:
 - 📈 **Machine Learning & AI**: Developing predictive models for financial analysis and forecasting.
